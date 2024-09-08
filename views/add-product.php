@@ -78,3 +78,5 @@ include '../classes/Product.php';
 <!-- comment here -->
 
 <!-- Fran comment 1 -->
+
+<!-- Fran comment 2 -->
